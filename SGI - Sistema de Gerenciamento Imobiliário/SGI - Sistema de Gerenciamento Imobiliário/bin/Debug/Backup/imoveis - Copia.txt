@@ -1,0 +1,20 @@
+﻿1|1|Rua tres|Apartamento|Locação|2|2|450|210|a alugar|Proximo a PUC Contagem|
+2|2|rua v1|Casa|Locação|3|3|2500000|120|a alugar|zzz|
+3|3|rua 42|Casa|Locação|1|1|1000000|100|a alugar|aaa|
+1|1|Rua tres|Apartamento|Locação|2|2|450|210|alugado|Proximo a PUC Contagem|
+2|1|nova imovel|hotel|Locação|40|40|100000000000|150|a alugar|grandes apartamentos|
+4|5|rua jones|casa|Locação|1|1|150000|150|a alugar|jones|
+4|5|rua jones|casa|Locação|1|1|150000|150|alugado|jones|
+gb|
+
+
+1|1|Rua tres|Apartamento|Locação|2|2|450|210|alugado|Proximo a PUC Contagem|
+
+2|1|nova imovel|hotel|Locação|40|40|100000000000|150|alugado|grandes apartamentos|
+
+3|3|rua 42|Casa|Locação|1|1|1000000|100|alugado|aaa|
+5|1|Rua tes|casa|Venda|1|1|100000|100|a vender|sadas|
+6|2|ruaua|casa|Locação|1|1|1000000|100|a alugar|amem|
+7|1|rua ssss|casa|Venda|1|1|1000000|100|a vender|funciona|
+
+6|2|ruaua|casa|Locação|1|1|1000000|100|alugado|amem|

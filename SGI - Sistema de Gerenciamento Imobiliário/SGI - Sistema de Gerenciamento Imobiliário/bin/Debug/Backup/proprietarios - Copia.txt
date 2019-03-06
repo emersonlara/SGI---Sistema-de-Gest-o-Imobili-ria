@@ -1,0 +1,9 @@
+1|Pedro|Rua A|147852369|
+2|Paulo|Rua B|258963|
+3|Arilson|Rua ZZ|33333333|
+4|Drica|rua love|2525252|
+5|Jones|av j cesar|2424242424|
+6|Joao|rua j|335556622|
+7|Henrique|Rua Francisco Ricardo de Souza 110|33988081331|
+8|Henrique|Rua Francisco Ricardo de Souza|33988081331|
+9|Henrique|Rua Francisco Ricando de Souza|1111111|

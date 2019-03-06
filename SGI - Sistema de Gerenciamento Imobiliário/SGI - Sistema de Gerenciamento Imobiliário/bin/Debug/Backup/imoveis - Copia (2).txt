@@ -1,0 +1,11 @@
+1|1|Rua tal|casa|Venda|3|1|500|100|vendido|Teste|
+2|2|Rua outro|ap|Locação|3|1|600|50|vendido||
+3|6|rua i|casa|Venda|4|1|10000000|100|vendido|boa|
+4|5|Av Joao Cesar|Casa|Venda|3|2|1000|100|vendido|teste|
+5|4|rua tester|ap|Locação|1|1|100|100|alugado|tester|
+6|7|Rua do Leo|Casa|Venda|2|2|160000|250|vendido|Direto do topo da cadeia alimentar|
+7|8|Rua Zema|Apartamento|Locação|2|1|451|114|alugado|nenhuma|
+8|9|Rua dos Goys|Casa|Venda|2|2|90000|0|com proposta|a venda|
+9|6|Rua Janeiro|Apartamento|Locação|2|2|450|120|alugado|a alugar|
+10|10|Rua dos Campeoes|Casa|Venda|2|2|100|100|vendido|vender|
+11|11|Rua dos Matozinhos|Apartamento|Locação|2|1|450000|150|alugado|uhuhuu|

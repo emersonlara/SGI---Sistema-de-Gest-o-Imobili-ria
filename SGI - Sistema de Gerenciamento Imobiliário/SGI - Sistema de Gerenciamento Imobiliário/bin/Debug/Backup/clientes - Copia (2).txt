@@ -1,0 +1,9 @@
+1|Pedro|Rua A|33988081330|30/04/1998|
+2|Pedro 2|Rua A|33988081330|30/04/1998|
+3|Teste|rua test|3333333|20/06/1995|
+4|Maria|rua cruzeiro|61616161|24/06/1993|
+5|Ricardo|Rua Emanuel Ferreira 115|3335223758|15/06/1989|
+6|Rafael|Rua Jose Roberto 15|325569847|21/09/2009|
+7|Juan|Rua Jacare|3301020305|09/05/1993|
+8|Lisca Doido|Coracao de Paulo|52525252|14/07/1984|
+9|Rubens|Rua Rubinho|2222222222|06/06/1983|

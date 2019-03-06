@@ -1,0 +1,9 @@
+1|Pedro|Rua tres|33988081330|
+2|Paulo|Rua quatro 5|33988851931|
+3|Miguel|Rua mineiro 102|339514262|
+4|Valeria|Rua da Garoa|3199986541|
+5|Felipe|Rua dos Goytacazes 142|3195684758|
+6|Rhuan|Rua dos Estudante|319512463|
+7|Murilo|Rua Vermelha|3185749685|
+8|Arilson|Rua da PUC|3175674768|
+9|Ivre|Rua C|3188581958|

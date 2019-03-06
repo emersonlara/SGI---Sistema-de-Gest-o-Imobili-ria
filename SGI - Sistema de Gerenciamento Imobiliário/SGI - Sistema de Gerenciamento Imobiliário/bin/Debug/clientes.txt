@@ -1,0 +1,11 @@
+1|Raquel|Rua Gilberto Gil 204|3188081564|25/01/1990|
+2|Ana Clara|Rua das Flores|3187654321|06/09/1995|
+3|Maria Luiza|Rua Francisco Silveira 709|3396587412|19/08/1993|
+4|Rafael|Rua Olegario|3185476985|18/08/1994|
+5|Julia|Rua da Vida|3188854628|27/01/1996|
+6|Julio|Rua da Harmonia|3185854625|28/10/1997|
+7|Luciano|Rua Matuta|3395684230|15/01/1993|
+8|Fernando|Rua Teodolino Pereira|3396258569|31/08/1996|
+9|Eros|Rua do Pagode|3188881915|14/07/1995|
+10|Caio|Rua Verde|3199963214|18/07/1991|
+11|Maria do Rosario|Rua J|3195826547|09/06/1994|

@@ -1,0 +1,21 @@
+1|1|Rua Gabriel Diniz|Casa|Venda|2|1|450000|0|com proposta|casa de dois andares|
+2|1|Rua das Pamonhas|Apartamento|Locação|2|2|120000|150|a alugar|Kitnet Dupla|
+3|2|Rua Marcilio Dias|Casa|Venda|1|1|130000|0|vendido|Casa 4 comodos|
+4|2|Rua do Limoeiro|Apartamento|Locação|3|3|500000|210|alugado|Rua da Turma da Monica|
+5|3|Rua do Tsunami|Casa|Venda|4|4|750000|0|a vender|Casa com varanda|
+6|3|Rua Lincoln Vieira|Apartamento|Locação|1|1|90000|120|alugado|Flat Simples|
+7|4|Rua do Cruzeiro|Casa|Venda|6|1|1200000|0|vendido|Mansao|
+8|4|Rua da Feira|Apartamento|Locação|1|1|110000|90|a alugar|Perto do centro comercial|
+9|5|Rua da Harmonia|Lote|Venda|0|0|50000|0|vendido|Lote novo|
+10|5|Rua Naiara Ribeiro|Cobertura|Locação|3|1|600000|290|a alugar|Cobertura de Luxo|
+11|1|Rua Guarulhos|Casa|Venda|1|1|140000|0|vendido|casa de um quarto|
+12|2|Rua Eleonor Pimenta|Casa|Venda|2|1|500000|0|a vender|bairro tranquilo|
+13|3|Rua da Vila|Casa|Venda|3|1|480000|0|vendido|rua boa|
+14|4|Rua da Luz|Apartamento|Locação|3|3|620000|150|alugado|apartamento com sacada|
+15|5|Rua do Desejo|Cobertura|Locação|2|1|650000|120|alugado|condominio barato|
+16|6|Rua Azul|Casa|Venda|1|1|130000|0|vendido|casa azul|
+17|6|Rua da Flor|Lote|Venda|0|0|50000|0|vendido|lote recente|
+18|7|Rua B|Apartamento|Locação|1|1|190000|110|alugado|Ap Flat|
+19|7|Rua C|Casa|Venda|1|1|120000|0|vendido|casa nova|
+20|8|rua az|Casa|Venda|2|1|150000|150|vendido|casa|
+21|9|Rua D|Casa|Venda|2|1|420000|0|vendido|casa|
